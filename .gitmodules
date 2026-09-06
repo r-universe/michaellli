@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "evalHTE"]
+	path = evalHTE
+	url = https://github.com/michaellli/evalhte
 [submodule "evalITR"]
 	path = evalITR
 	url = https://github.com/michaellli/evalitr
